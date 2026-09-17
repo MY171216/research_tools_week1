@@ -1,0 +1,3 @@
+Python is simple, and Python is powerful.
+Text tools make text analysis simple.
+Python tools count every word in this text.
